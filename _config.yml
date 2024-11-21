@@ -31,3 +31,5 @@ launch_buttons:
 
 exclude_patterns:
   - developer/*
+  - README.md
+  - img/README.md
