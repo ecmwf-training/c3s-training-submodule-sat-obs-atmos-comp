@@ -6,5 +6,8 @@ root: intro-jupyter-template
 chapters:
 - file: jupyter-notebook-template
   title: Jupyter notebook template
-
+- file: CDS-aerosol_multi_sensor_record-deliver-v31.ipynb
+- file: CDS-aerosol_single_sensor-deliver-v21.ipynb
+- file: GHG_L2_C3S_XCO2_EMMA_03.ipynb
+- file: GHG_L3_C3S_CO2_CH4_03.ipynb
 
