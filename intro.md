@@ -1,7 +1,6 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_EC_Cop_ECMWF.png)
 
-
-# C3S Satellite-Observations (ECV) Atmospheric Composition
+# C3S Satellite-Observations (ECV) - Atmospheric Composition Tutorial
 
 **PLEASE NOTE THAT THIS A DEVELOPMENT INSTANCE, THESE NOTE BOOKS ARE OFFICIALLY PUBLISHED ELSEWHERE**
 
@@ -10,19 +9,19 @@ content prior to publication.
 
 Satellite observations facilitate the monitoring of atmospheric composition, including greenhouse gases, aerosols, and ozone levels. This subsection discusses utilizing satellite data to analyze greenhouse gas concentrations, aerosol optical properties, and total ozone columns. Understanding atmospheric composition dynamics is essential for assessing air quality, understanding climate forcings, and studying atmospheric chemistry.
 
-## [Greenhouse Gas Level 2 Products](../greenhouse-gases-level2-products.ipynb)
+## Greenhouse Gas Level 2 Products
 
 This is a Jupyter Notebook illustrating how to access, read and process Greenhouse Gas (GHG) carbon dioxide (CO2) and methane (CH4) data products as generated in the framework of the Copernicus Climate Change Service (C3S) project C3S2_312a_Lot2.
 
 ![logo](./img/GHG_l2.png)
 
-## [Greenhouse Gas Level 3 Products](../greenhouse-gases-level3-products.ipynb)
+## Greenhouse Gas Level 3 Products
 
 This is a Jupyter Notebook illustrating how to access, read and process Greenhouse Gas (GHG) carbon dioxide (CO2) and methane (CH4) data products as generated in the framework of the Copernicus Climate Change Service (C3S) project C3S2_312a_Lot2.
 
 ![logo](./img/GHG_l3.png)
 
-## [C3S Aerosol](../aerosol-single-sensor-demonstrator.ipynb)
+## Aerosol Single Sensor Demonstrator
 
 This first notebook provides a practical introduction to the
 [C3S Aerosol properties gridded data from 1995 to present derived from satellite observations](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-aerosol-properties?tab=overview)
@@ -31,7 +30,7 @@ We give a short introduction to the ECV Aerosol Properties, which contains 4 tot
 
 ![logo](./img/Aerosol_Single.png)
 
-## [Aerosol Multi-Sensor Record](../aerosol-multi-sensor-record.ipynb)
+## Aerosol Multi-Sensor Record
 
 This second notebook extends the practical introduction of the first notebook to the
 [C3S Aerosol properties gridded data from 1995 to present derived from satellite observations](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-aerosol-properties?tab=overview)
@@ -40,7 +39,7 @@ We create a full Climate Data Record by combining subsequent data record pieces 
 
 ![logo](./img/Aerosol_Multiple.png)
 
-## [Total Ozone Columns](../total-ozone-columns.ipynb)
+## Total Ozone Columns
 
 In this notebook we will show a practical example on how to download ozone products from the CDS within python. After retrieving the files we will also take a look at the content of the files by plotting the dataset. We will show two use cases, but it is obvious that more complex plots can be constructed in a similar way.
 
