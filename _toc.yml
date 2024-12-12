@@ -4,11 +4,16 @@
 format: jb-book
 root: intro
 chapters:
-- file: greenhouse-gases-level2-products
-  title: Greenhouse Gas Level 2 Products
-- file: greenhouse-gases-level3-products
-  title: Greenhouse Gas Level 3 Products
-- file: aerosol-single-sensor-demonstrator
-- file: aerosol-multi-sensor-record
-- file: total-ozone-columns
-  title: Total Column Ozone
+  # GHG
+  - file: submodules/c3s-training-submodule-sat-obs-atmos-comp/greenhouse-gases-level2-products
+    title: Greenhouse Gas Level 2 Products
+  - file: submodules/c3s-training-submodule-sat-obs-atmos-comp/greenhouse-gases-level3-products
+    title: Greenhouse Gas Level 3 Products
+  # Aerosol
+  - file: submodules/c3s-training-submodule-sat-obs-atmos-comp/aerosol-single-sensor-demonstrator
+    title: Aerosol Single Sensor Demonstrator
+  - file: submodules/c3s-training-submodule-sat-obs-atmos-comp/aerosol-multi-sensor-record
+    title: Aerosol Multi-Sensor Record
+  # Ozone
+  - file: submodules/c3s-training-submodule-sat-obs-atmos-comp/total-ozone-columns
+    title: Total Ozone Columns
