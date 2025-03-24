@@ -6,3 +6,6 @@ dependencies:
   - matplotlib
   - cartopy
   - jupyterlab-myst
+  - pip
+  - pip:
+    - earthkit-transforms
