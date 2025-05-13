@@ -1,6 +1,6 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_EC_Cop_ECMWF.png)
 
-# C3S satellite observations (ECV) - Atmospheric composition tutorial
+# C3S satellite observations (ECV) - atmospheric composition tutorial
 
 Satellite observations facilitate the monitoring of atmospheric composition, including greenhouse gases, aerosols, and ozone levels. This subsection discusses utilizing satellite data to analyze greenhouse gas concentrations, aerosol optical properties, and total ozone columns. Understanding atmospheric composition dynamics is essential for assessing air quality, understanding climate forcings, and studying atmospheric chemistry.
 
