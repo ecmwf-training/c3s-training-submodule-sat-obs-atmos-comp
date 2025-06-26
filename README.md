@@ -85,3 +85,6 @@ This action is activated when a change is made to the develop branch, after the 
 3. Any additional images included in the notebook should be added using markdown hyperlink syntax, html syntax does not work with our jupyter-books. e.g.: `![](.images.png)`
 4. Please avoid using placeholder hyperlinks using (the HTML <a> tag without a href provided) and within notebook cross-references (links between sections of the notebook). Due to platform differences they are not rendered correctly on JupyterBook pages and causes many compilation warnings and errors. This means it is much harder for us to identify real issues in the notebook, slowing down the integration process.
 5. Please refrain from using HTML tags in general as they often intefere with the HTML config that JupyterBook builds and do not necessarily produce the intended effect when deployed in different environments. Markdown should offer all the text formatting required for the purposes of these traning notebooks.
+
+
+Test edit
